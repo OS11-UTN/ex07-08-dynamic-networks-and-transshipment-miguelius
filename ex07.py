@@ -102,3 +102,5 @@ if __name__ == '__main__':
     print(f"Usage: (from,to) -> used/max: {usage}")
     print(f"Min arcs to be cut to cut: (from,to) {min_cut}" )
     print(f"Max flow: {acum_flow:0.2f}")
+
+
